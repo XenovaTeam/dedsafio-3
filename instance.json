@@ -1,0 +1,19 @@
+{
+  "version": "1.4.0",
+  "minecraft": {
+    "version": "1.16.5",
+    "loader": "fabric",
+    "loaderVersion": "0.15.3"
+  },
+  "files": {
+    "mods": "mods.json",
+    "config": "config.json",
+    "resourcepacks": "resourcepacks.json"
+  },
+  "release": {
+    "tag": "desafio-3-fabric1.16.5-v1.0.0"
+  },
+  "window": {
+    "title": "Desafio 3 - Fabric 1.16.5"
+  }
+}
