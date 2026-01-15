@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "minecraft": {
     "version": "1.16.5",
     "loader": "fabric",
@@ -17,5 +17,6 @@
     "title": "Desafio 3 - Fabric 1.16.5"
   }
 }
+
 
 
